@@ -13,6 +13,8 @@
 		<restassured>5.4.0</restassured>
 		<log4j.core>2.24.3</log4j.core>
 		<log4j.api>2.24.3</log4j.api>
+		<maven.compiler.source>17</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
 	</properties>
 
 	<dependencies>
